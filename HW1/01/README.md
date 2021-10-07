@@ -1,2 +1,2 @@
 # 01
-Exercie 01
+Exercise 01
