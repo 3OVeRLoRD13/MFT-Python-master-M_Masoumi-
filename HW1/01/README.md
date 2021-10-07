@@ -1,2 +1,2 @@
-# hello-world
-this is just a test
+# 01
+Exercie 01
